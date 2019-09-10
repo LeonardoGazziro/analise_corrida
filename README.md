@@ -1,7 +1,7 @@
 # Análise da corrida.
 
-Com base no arquivo de entrada corrida será realizada a análise
-para obter informações.
+Com base no arquivo de entrada, contendo os dados da corrida, 
+será realizada a análise para obter informações.
 
 ## Como usar
 
@@ -11,7 +11,7 @@ para obter informações.
 4. Clone o repositório 
 5. Execute o script ou abra o arquivo .ipynb no jupyter-notebook
 
-## Com instalar
+## Como instalar
 Pandas:
 ```console
 pip install pandas
