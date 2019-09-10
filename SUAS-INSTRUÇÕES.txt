@@ -1,0 +1,2 @@
+Recomendo a utilização do jupyter-notebook, a ferramenta traz recursos mais apropriados para análise de 
+dados, o que vai facilitar o entendimento do código e a visualização do mesmo.
